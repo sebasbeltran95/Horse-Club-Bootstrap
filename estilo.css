@@ -1,0 +1,18 @@
+/******footer********/
+
+.copyrightText {
+    width: 100%;
+    background: #181818;
+    padding: 8px 100px;
+    text-align: center;
+    color: #999;
+}
+
+
+/******responsi********/
+
+@media (max-width: 991px) {
+    .copyrightText {
+        padding: 8px 40px;
+    }
+}
